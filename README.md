@@ -45,4 +45,4 @@ Spam classifiers can be used to:
 * Improve the accuracy of spam filters.
 
 
-## Contributor : [Ankit Nainwal](https://github.com/nano-bot01) 
+## Contributor : [Ankit Nainwal](https://github.com/nano-bot01)
